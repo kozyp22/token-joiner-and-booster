@@ -1,12 +1,12 @@
 {
-    "captcha_service": "capmonster/2captcha",
-    "captcha_api_key": "",
-    "inviteCode": "serverInviteCode",
-    "joinDelay": 3000,
-    "useProxies": false,
+    "captcha_service": "capmonster/2captcha", 2Captcha
+    "captcha_api_key": "", 2captcha
+    "inviteCode": "serverInviteCode", https://discord.com/invite/JGPBJDQf9c
+    "joinDelay": 3000, 2000
+    "useProxies": false, Enables
     "boost": {
-        "enabled": false,
-        "delay": 3000,
-        "serverId": "serverId"
+        "enabled": false, Enable
+        "delay": 3000, 2000
+        "serverId": "serverId" 1067318067329257492
     }
 }
